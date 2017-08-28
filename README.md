@@ -1,2 +1,2 @@
 # testgit
-this is a test
+hello world by golang!
